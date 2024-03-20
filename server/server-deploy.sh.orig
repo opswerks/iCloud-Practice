@@ -1,0 +1,2078 @@
+employees:
+  - name: John Doe
+    age: 35
+    department: Engineering
+    skills:
+      - Java
+      - Python
+      - SQL
+<<<<<<< HEAD
+    allowance_giles: 75000
+=======
+    salary: 75000
+>>>>>>> upstream/feature_9
+  - name: Alice Smith
+    age: 28
+    department: Marketing
+    skills:
+      - Social Media Marketing
+      - Copywriting
+      - Graphic Design
+<<<<<<< HEAD
+    allowance_giles: 60000
+=======
+    salary: 60000
+>>>>>>> upstream/feature_9
+  - name: Michael Johnson
+    age: 40
+    department: Finance
+    skills:
+      - Financial Analysis
+      - Accounting
+      - Budgeting
+<<<<<<< HEAD
+    allowance_giles: 85000
+=======
+    salary: 85000
+>>>>>>> upstream/feature_9
+  - name: Emily Davis
+    age: 32
+    department: Human Resources
+    skills:
+      - Recruiting
+      - Employee Relations
+      - Training & Development
+<<<<<<< HEAD
+    allowance_giles: 70000
+=======
+    salary: 70000
+>>>>>>> upstream/feature_9
+  - name: David Brown
+    age: 38
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - CRM
+<<<<<<< HEAD
+    allowance_giles: 80000
+=======
+    salary: 80000
+>>>>>>> upstream/feature_9
+  - name: Jessica Wang
+    age: 29
+    department: Engineering
+    skills:
+      - C++
+      - JavaScript
+      - DevOps
+<<<<<<< HEAD
+    allowance_giles: 72000
+=======
+    salary: 72000
+>>>>>>> upstream/feature_9
+  - name: Olivia Martinez
+    age: 31
+    department: Marketing
+    skills:
+      - Content Marketing
+      - SEO
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 65000
+=======
+    salary: 65000
+>>>>>>> upstream/feature_9
+  - name: Christopher Lee
+    age: 45
+    department: Finance
+    skills:
+      - Risk Management
+      - Investment Analysis
+      - Financial Modeling
+<<<<<<< HEAD
+    allowance_giles: 90000
+=======
+    salary: 90000
+>>>>>>> upstream/feature_9
+  - name: Sophia Nguyen
+    age: 33
+    department: Human Resources
+    skills:
+      - Performance Management
+      - Compensation & Benefits
+      - HRIS
+<<<<<<< HEAD
+    allowance_giles: 72000
+=======
+    salary: 72000
+>>>>>>> upstream/feature_9
+  - name: Matthew Taylor
+    age: 36
+    department: Sales
+    skills:
+      - Account Management
+      - Lead Generation
+      - Sales Forecasting
+<<<<<<< HEAD
+    allowance_giles: 82000
+=======
+    salary: 82000
+>>>>>>> upstream/feature_9
+  - name: William Anderson
+    age: 27
+    department: Engineering
+    skills:
+      - Ruby
+      - HTML/CSS
+      - System Architecture
+<<<<<<< HEAD
+    allowance_giles: 68000
+=======
+    salary: 68000
+>>>>>>> upstream/feature_9
+  - name: Sophia Hernandez
+    age: 30
+    department: Marketing
+    skills:
+      - Brand Management
+      - Market Research
+      - Influencer Marketing
+<<<<<<< HEAD
+    allowance_giles: 67000
+=======
+    salary: 67000
+>>>>>>> upstream/feature_9
+  - name: Benjamin Brown
+    age: 42
+    department: Finance
+    skills:
+      - Corporate Finance
+      - Taxation
+      - Audit
+<<<<<<< HEAD
+    allowance_giles: 92000
+=======
+    salary: 92000
+>>>>>>> upstream/feature_9
+  - name: Emma Wilson
+    age: 34
+    department: Human Resources
+    skills:
+      - Organizational Development
+      - Diversity & Inclusion
+      - Labor Relations
+<<<<<<< HEAD
+    allowance_giles: 74000
+=======
+    salary: 74000
+>>>>>>> upstream/feature_9
+  - name: Daniel Garcia
+    age: 39
+    department: Sales
+    skills:
+      - Strategic Planning
+      - Customer Relationship Management
+      - Sales Training
+<<<<<<< HEAD
+    allowance_giles: 83000
+=======
+    salary: 83000
+>>>>>>> upstream/feature_9
+  - name: Olivia Jones
+    age: 26
+    department: Engineering
+    skills:
+      - PHP
+      - Laravel
+      - Database Management
+<<<<<<< HEAD
+    allowance_giles: 69000
+=======
+    salary: 69000
+>>>>>>> upstream/feature_9
+  - name: Ethan White
+    age: 32
+    department: Marketing
+    skills:
+      - Digital Advertising
+      - Market Segmentation
+      - Public Relations
+<<<<<<< HEAD
+    allowance_giles: 66000
+=======
+    salary: 66000
+>>>>>>> upstream/feature_9
+  - name: Alexander Kim
+    age: 44
+    department: Finance
+    skills:
+      - Financial Reporting
+      - Mergers & Acquisitions
+      - Treasury Management
+<<<<<<< HEAD
+    allowance_giles: 88000
+=======
+    salary: 88000
+>>>>>>> upstream/feature_9
+  - name: Chloe Miller
+    age: 35
+    department: Human Resources
+    skills:
+      - Succession Planning
+      - Employee Engagement
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 75000
+=======
+    salary: 75000
+>>>>>>> upstream/feature_9
+  - name: Ethan Robinson
+    age: 37
+    department: Sales
+    skills:
+      - Key Account Management
+      - Sales Operations
+      - Contract Negotiation
+<<<<<<< HEAD
+    allowance_giles: 84000
+=======
+    salary: 84000
+>>>>>>> upstream/feature_9
+  - name: Mia Brown
+    age: 28
+    department: Engineering
+    skills:
+      - Angular
+      - TypeScript
+      - Web Development
+<<<<<<< HEAD
+    allowance_giles: 70000
+=======
+    salary: 70000
+>>>>>>> upstream/feature_9
+  - name: Ava Rodriguez
+    age: 29
+    department: Marketing
+    skills:
+      - Event Planning
+      - Social Media Advertising
+      - Branding
+<<<<<<< HEAD
+    allowance_giles: 67000
+=======
+    salary: 67000
+>>>>>>> upstream/feature_9
+  - name: Jacob Hernandez
+    age: 43
+    department: Finance
+    skills:
+      - Compliance
+      - Forensic Accounting
+      - Financial Planning
+<<<<<<< HEAD
+    allowance_giles: 90000
+=======
+    salary: 90000
+>>>>>>> upstream/feature_9
+  - name: Mia Taylor
+    age: 33
+    department: Human Resources
+    skills:
+      - Talent Acquisition
+      - HR Technology
+      - Compensation Design
+<<<<<<< HEAD
+    allowance_giles: 73000
+=======
+    salary: 73000
+>>>>>>> upstream/feature_9
+  - name: Noah Lewis
+    age: 31
+    department: Sales
+    skills:
+      - Sales Enablement
+      - Channel Management
+      - Forecasting
+<<<<<<< HEAD
+    allowance_giles: 82000
+=======
+    salary: 82000
+>>>>>>> upstream/feature_9
+  - name: Sophia Martin
+    age: 27
+    department: Engineering
+    skills:
+      - Node.js
+      - MongoDB
+      - RESTful APIs
+<<<<<<< HEAD
+    allowance_giles: 69000
+=======
+    salary: 69000
+>>>>>>> upstream/feature_9
+  - name: Mia Nguyen
+    age: 30
+    department: Marketing
+    skills:
+      - Content Strategy
+      - Influencer Outreach
+      - Marketing Automation
+<<<<<<< HEAD
+    allowance_giles: 68000
+=======
+    salary: 68000
+>>>>>>> upstream/feature_9
+  - name: Alexander Johnson
+    age: 45
+    department: Finance
+    skills:
+      - International Finance
+      - Hedge Funds
+      - Financial Risk Management
+<<<<<<< HEAD
+    allowance_giles: 92000
+=======
+    salary: 92000
+>>>>>>> upstream/feature_9
+  - name: Sophia Rodriguez
+    age: 36
+    department: Human Resources
+    skills:
+      - Employee Development
+      - HR Compliance
+      - Compensation Analysis
+<<<<<<< HEAD
+    allowance_giles: 76000
+=======
+    salary: 76000
+>>>>>>> upstream/feature_9
+  - name: Olivia Clark
+    age: 38
+    department: Sales
+    skills:
+      - Strategic Partnerships
+      - Sales Management
+      - Pricing Strategy
+<<<<<<< HEAD
+    allowance_giles: 83000
+=======
+    salary: 83000
+>>>>>>> upstream/feature_9
+  - name: Ethan Perez
+    age: 29
+    department: Engineering
+    skills:
+      - React
+      - Redux
+      - Frontend Development
+<<<<<<< HEAD
+    allowance_giles: 71000
+=======
+    salary: 71000
+>>>>>>> upstream/feature_9
+  - name: Ava Martinez
+    age: 32
+    department: Marketing
+    skills:
+      - Content Creation
+      - Influencer Marketing
+      - Online Advertising
+<<<<<<< HEAD
+    allowance_giles: 69000
+=======
+    salary: 69000
+>>>>>>> upstream/feature_9
+  - name: Liam Moore
+    age: 41
+    department: Finance
+    skills:
+      - Investment Banking
+      - Financial Advisory
+      - Portfolio Management
+<<<<<<< HEAD
+    allowance_giles: 91000
+=======
+    salary: 91000
+>>>>>>> upstream/feature_9
+  - name: Emma Hernandez
+    age: 37
+    department: Human Resources
+    skills:
+      - Leadership Development
+      - HR Metrics
+      - Employee Retention
+<<<<<<< HEAD
+    allowance_giles: 77000
+=======
+    salary: 77000
+>>>>>>> upstream/feature_9
+  - name: Noah Perez
+    age: 30
+    department: Sales
+    skills:
+      - Business Development
+      - Sales Coaching
+      - CRM Implementation
+<<<<<<< HEAD
+    allowance_giles: 84000
+=======
+    salary: 84000
+>>>>>>> upstream/feature_9
+  - name: Olivia Thompson
+    age: 28
+    department: Engineering
+    skills:
+      - Django
+      - Flask
+      - Backend Development
+<<<<<<< HEAD
+    allowance_giles: 70000
+=======
+    salary: 70000
+>>>>>>> upstream/feature_9
+  - name: Ethan Flores
+    age: 31
+    department: Marketing
+    skills:
+      - Social Media Management
+      - Content Marketing
+      - Digital Strategy
+<<<<<<< HEAD
+    allowance_giles: 68000
+=======
+    salary: 68000
+>>>>>>> upstream/feature_9
+  - name: Mia Turner
+    age: 46
+    department: Finance
+    skills:
+      - Financial Compliance
+      - Tax Planning
+      - Internal Audit
+<<<<<<< HEAD
+    allowance_giles: 93000
+=======
+    salary: 93000
+>>>>>>> upstream/feature_9
+  - name: Ava Taylor
+    age: 38
+    department: Human Resources
+    skills:
+      - Organizational Design
+      - HR Policy Development
+      - Workforce Planning
+<<<<<<< HEAD
+    allowance_giles: 78000
+=======
+    salary: 78000
+>>>>>>> upstream/feature_9
+  - name: Liam Hernandez
+    age: 31
+    department: Sales
+    skills:
+      - Solution Selling
+      - Sales Analytics
+      - Customer Retention
+<<<<<<< HEAD
+    allowance_giles: 85000
+=======
+    salary: 85000
+>>>>>>> upstream/feature_9
+  - name: Emma Perez
+    age: 31
+    department: Engineering
+    skills:
+      - Docker
+      - Kubernetes
+      - Cloud Architecture
+<<<<<<< HEAD
+    allowance_giles: 72000
+=======
+    salary: 72000
+>>>>>>> upstream/feature_9
+  - name: Noah Martinez
+    age: 33
+    department: Marketing
+    skills:
+      - Influencer Strategy
+      - Email Automation
+      - SEM
+<<<<<<< HEAD
+    allowance_giles: 69000
+=======
+    salary: 69000
+>>>>>>> upstream/feature_9
+  - name: Olivia Brown
+    age: 48
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Accounting
+      - Investment Management
+<<<<<<< HEAD
+    allowance_giles: 94000
+=======
+    salary: 94000
+>>>>>>> upstream/feature_9
+  - name: Ethan Wilson
+    age: 39
+    department: Human Resources
+    skills:
+      - Change Management
+      - HR Technology Implementation
+      - Employee Relations
+<<<<<<< HEAD
+    allowance_giles: 79000
+=======
+    salary: 79000
+>>>>>>> upstream/feature_9
+  - name: Mia Garcia
+    age: 32
+    department: Sales
+    skills:
+      - Sales Coaching
+      - Sales Forecasting
+      - Territory Management
+<<<<<<< HEAD
+    allowance_giles: 86000
+=======
+    salary: 86000
+>>>>>>> upstream/feature_9
+  - name: Ava Rodriguez
+    age: 33
+    department: Engineering
+    skills:
+      - AWS
+      - Azure
+      - Google Cloud Platform
+<<<<<<< HEAD
+    allowance_giles: 73000
+=======
+    salary: 73000
+>>>>>>> upstream/feature_9
+  - name: Liam Nguyen
+    age: 34
+    department: Marketing
+    skills:
+      - PPC Advertising
+      - Content Creation
+      - Brand Strategy
+<<<<<<< HEAD
+    allowance_giles: 70000
+=======
+    salary: 70000
+>>>>>>> upstream/feature_9
+  - name: Emma Johnson
+    age: 47
+    department: Finance
+    skills:
+      - Financial Risk Analysis
+      - Tax Accounting
+      - Asset Management
+<<<<<<< HEAD
+    allowance_giles: 95000
+=======
+    salary: 95000
+>>>>>>> upstream/feature_9
+  - name: Noah Miller
+    age: 40
+    department: Human Resources
+    skills:
+      - Talent Management
+      - Diversity Training
+      - Compensation Planning
+<<<<<<< HEAD
+    allowance_giles: 80000
+=======
+    salary: 80000
+>>>>>>> upstream/feature_9
+  - name: Olivia Martinez
+    age: 33
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Sales Operations
+      - Business Planning
+<<<<<<< HEAD
+    allowance_giles: 87000
+=======
+    salary: 87000
+>>>>>>> upstream/feature_9
+  - name: Ethan Brown
+    age: 33
+    department: Engineering
+    skills:
+      - Full Stack Development
+      - Microservices Architecture
+      - CI/CD
+<<<<<<< HEAD
+    allowance_giles: 74000
+=======
+    salary: 74000
+>>>>>>> upstream/feature_9
+  - name: Mia Lee
+    age: 35
+    department: Marketing
+    skills:
+      - Social Media Analytics
+      - Brand Management
+      - Content Optimization
+<<<<<<< HEAD
+    allowance_giles: 71000
+=======
+    salary: 71000
+>>>>>>> upstream/feature_9
+  - name: Ava Taylor
+    age: 48
+    department: Finance
+    skills:
+      - Financial Control
+      - Auditing
+      - Compliance Management
+<<<<<<< HEAD
+    allowance_giles: 96000
+=======
+    salary: 96000
+>>>>>>> upstream/feature_9
+  - name: Liam Garcia
+    age: 41
+    department: Human Resources
+    skills:
+      - Employee Wellness Programs
+      - Leadership Training
+      - HR Compliance
+<<<<<<< HEAD
+    allowance_giles: 81000
+=======
+    salary: 81000
+>>>>>>> upstream/feature_9
+  - name: Emma Rodriguez
+    age: 34
+    department: Sales
+    skills:
+      - Client Relationship Management
+      - Sales Analytics
+      - Forecasting
+<<<<<<< HEAD
+    allowance_giles: 88000
+=======
+    salary: 88000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 34
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 75000
+=======
+    salary: 75000
+>>>>>>> upstream/feature_9
+  - name: Olivia Nguyen
+    age: 36
+    department: Marketing
+    skills:
+      - Influencer Collaboration
+      - SEO Optimization
+      - Email Campaigns
+<<<<<<< HEAD
+    allowance_giles: 72000
+=======
+    salary: 72000
+>>>>>>> upstream/feature_9
+  - name: Ethan Johnson
+    age: 49
+    department: Finance
+    skills:
+      - Financial Forecasting
+      - Investment Analysis
+      - Tax Planning
+<<<<<<< HEAD
+    allowance_giles: 97000
+=======
+    salary: 97000
+>>>>>>> upstream/feature_9
+  - name: Mia Martinez
+    age: 42
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Performance Appraisals
+      - Training Development
+<<<<<<< HEAD
+    allowance_giles: 82000
+=======
+    salary: 82000
+>>>>>>> upstream/feature_9
+  - name: Ava Brown
+    age: 35
+    department: Sales
+    skills:
+      - Sales Forecasting
+      - Negotiation
+      - Market Analysis
+<<<<<<< HEAD
+    allowance_giles: 89000
+=======
+    salary: 89000
+>>>>>>> upstream/feature_9
+  - name: Liam Taylor
+    age: 42
+    department: Engineering
+    skills:
+      - Cloud Computing
+      - Serverless Architecture
+      - DevOps Automation
+<<<<<<< HEAD
+    allowance_giles: 76000
+=======
+    salary: 76000
+>>>>>>> upstream/feature_9
+  - name: Emma Perez
+    age: 37
+    department: Marketing
+    skills:
+      - Social Media Strategy
+      - Content Creation
+      - SEO Analysis
+<<<<<<< HEAD
+    allowance_giles: 73000
+=======
+    salary: 73000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 37
+    department: Finance
+    skills:
+      - Corporate Strategy
+      - Financial Regulation
+      - Investment Banking
+<<<<<<< HEAD
+    allowance_giles: 98000
+=======
+    salary: 98000
+>>>>>>> upstream/feature_9
+  - name: Olivia Garcia
+    age: 50
+    department: Human Resources
+    skills:
+      - Employee Relations
+      - HR Analytics
+      - Talent Development
+<<<<<<< HEAD
+    allowance_giles: 83000
+=======
+    salary: 83000
+>>>>>>> upstream/feature_9
+  - name: Ethan Rodriguez
+    age: 36
+    department: Sales
+    skills:
+      - Account Management
+      - Sales Training
+      - Customer Service
+<<<<<<< HEAD
+    allowance_giles: 90000
+=======
+    salary: 90000
+>>>>>>> upstream/feature_9
+  - name: Mia Brown
+    age: 36
+    department: Engineering
+    skills:
+      - Software Architecture
+      - Backend Development
+      - Database Design
+<<<<<<< HEAD
+    allowance_giles: 77000
+=======
+    salary: 77000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 38
+    department: Marketing
+    skills:
+      - Influencer Marketing
+      - Email Marketing
+      - Content Curation
+<<<<<<< HEAD
+    allowance_giles: 74000
+=======
+    salary: 74000
+>>>>>>> upstream/feature_9
+  - name: Liam Johnson
+    age: 51
+    department: Finance
+    skills:
+      - Financial Compliance
+      - Risk Assessment
+      - Treasury Operations
+<<<<<<< HEAD
+    allowance_giles: 99000
+=======
+    salary: 99000
+>>>>>>> upstream/feature_9
+  - name: Emma Martinez
+    age: 38
+    department: Human Resources
+    skills:
+      - Employee Engagement
+      - Succession Planning
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 84000
+=======
+    salary: 84000
+>>>>>>> upstream/feature_9
+  - name: Noah Taylor
+    age: 39
+    department: Sales
+    skills:
+      - Sales Management
+      - Strategic Planning
+      - Marketing Strategy
+<<<<<<< HEAD
+    allowance_giles: 91000
+=======
+    salary: 91000
+>>>>>>> upstream/feature_9
+  - name: Olivia Perez
+    age: 37
+    department: Engineering
+    skills:
+      - Frontend Development
+      - UX/UI Design
+      - Responsive Web Design
+<<<<<<< HEAD
+    allowance_giles: 78000
+=======
+    salary: 78000
+>>>>>>> upstream/feature_9
+  - name: Ethan Hernandez
+    age: 39
+    department: Marketing
+    skills:
+      - Social Media Advertising
+      - Content Strategy
+      - Digital Marketing
+<<<<<<< HEAD
+    allowance_giles: 75000
+=======
+    salary: 75000
+>>>>>>> upstream/feature_9
+  - name: Mia Rodriguez
+    age: 52
+    department: Finance
+    skills:
+      - Financial Planning
+      - Corporate Finance
+      - Tax Advisory
+<<<<<<< HEAD
+    allowance_giles: 100000
+=======
+    salary: 100000
+>>>>>>> upstream/feature_9
+  - name: Ava Brown
+    age: 39
+    department: Human Resources
+    skills:
+      - Leadership Development
+      - HR Strategy
+      - Performance Management
+<<<<<<< HEAD
+    allowance_giles: 85000
+=======
+    salary: 85000
+>>>>>>> upstream/feature_9
+  - name: Liam Garcia
+    age: 40
+    department: Sales
+    skills:
+      - Customer Relationship Management
+      - Sales Analytics
+      - Market Research
+<<<<<<< HEAD
+    allowance_giles: 92000
+=======
+    salary: 92000
+>>>>>>> upstream/feature_9
+  - name: Emma Hernandez
+    age: 39
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Data Engineering
+      - Big Data Analytics
+<<<<<<< HEAD
+    allowance_giles: 79000
+=======
+    salary: 79000
+>>>>>>> upstream/feature_9
+  - name: Noah Nguyen
+    age: 38
+    department: Marketing
+    skills:
+      - Content Marketing
+      - PPC Campaigns
+      - Branding Strategy
+<<<<<<< HEAD
+    allowance_giles: 76000
+=======
+    salary: 76000
+>>>>>>> upstream/feature_9
+  - name: Olivia Johnson
+    age: 53
+    department: Finance
+    skills:
+      - Financial Analysis
+      - Investment Management
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 101000
+=======
+    salary: 101000
+>>>>>>> upstream/feature_9
+  - name: Ethan Martinez
+    age: 40
+    department: Human Resources
+    skills:
+      - Talent Acquisition
+      - HR Policy Development
+      - Workforce Analytics
+<<<<<<< HEAD
+    allowance_giles: 86000
+=======
+    salary: 86000
+>>>>>>> upstream/feature_9
+  - name: Mia Taylor
+    age: 41
+    department: Sales
+    skills:
+      - Strategic Account Management
+      - Sales Training
+      - Negotiation Skills
+<<<<<<< HEAD
+    allowance_giles: 93000
+=======
+    salary: 93000
+>>>>>>> upstream/feature_9
+  - name: Ava Perez
+    age: 40
+    department: Engineering
+    skills:
+      - Cloud Architecture
+      - DevOps Engineering
+      - CI/CD Pipelines
+<<<<<<< HEAD
+    allowance_giles: 80000
+=======
+    salary: 80000
+>>>>>>> upstream/feature_9
+  - name: Liam Hernandez
+    age: 41
+    department: Marketing
+    skills:
+      - Social Media Management
+      - Content Strategy
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 77000
+=======
+    salary: 77000
+>>>>>>> upstream/feature_9
+  - name: Emma Rodriguez
+    age: 54
+    department: Finance
+    skills:
+      - Financial Reporting
+      - Financial Modeling
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 102000
+=======
+    salary: 102000
+>>>>>>> upstream/feature_9
+  - name: Noah Garcia
+    age: 42
+    department: Human Resources
+    skills:
+      - Organizational Development
+      - Employee Engagement
+      - Leadership Training
+<<<<<<< HEAD
+    allowance_giles: 87000
+=======
+    salary: 87000
+>>>>>>> upstream/feature_9
+  - name: Olivia Taylor
+    age: 42
+    department: Sales
+    skills:
+      - Sales Leadership
+      - Account Management
+      - Strategic Planning
+<<<<<<< HEAD
+    allowance_giles: 94000
+=======
+    salary: 94000
+>>>>>>> upstream/feature_9
+  - name: Ethan Perez
+    age: 41
+    department: Engineering
+    skills:
+      - Frontend Development
+      - Backend Development
+      - API Development
+<<<<<<< HEAD
+    allowance_giles: 81000
+=======
+    salary: 81000
+>>>>>>> upstream/feature_9
+  - name: Mia Hernandez
+    age: 42
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - SEO Optimization
+<<<<<<< HEAD
+    allowance_giles: 78000
+=======
+    salary: 78000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 55
+    department: Finance
+    skills:
+      - Corporate Finance
+      - Financial Planning & Analysis
+      - Treasury Management
+<<<<<<< HEAD
+    allowance_giles: 103000
+=======
+    salary: 103000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 43
+    department: Human Resources
+    skills:
+      - Talent Management
+      - Performance Appraisal
+      - HR Compliance
+<<<<<<< HEAD
+    allowance_giles: 88000
+=======
+    salary: 88000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 43
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Customer Relationship Management
+      - Negotiation
+<<<<<<< HEAD
+    allowance_giles: 95000
+=======
+    salary: 95000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 42
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Data Science
+      - Natural Language Processing
+<<<<<<< HEAD
+    allowance_giles: 82000
+=======
+    salary: 82000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 43
+    department: Marketing
+    skills:
+      - Brand Management
+      - Digital Marketing
+      - Content Creation
+<<<<<<< HEAD
+    allowance_giles: 79000
+=======
+    salary: 79000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 56
+    department: Finance
+    skills:
+      - Financial Risk Management
+      - Investment Banking
+      - Financial Compliance
+<<<<<<< HEAD
+    allowance_giles: 104000
+=======
+    salary: 104000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 44
+    department: Human Resources
+    skills:
+      - Employee Relations
+      - HR Metrics
+      - Training & Development
+<<<<<<< HEAD
+    allowance_giles: 89000
+=======
+    salary: 89000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 44
+    department: Sales
+    skills:
+      - Account Management
+      - Sales Operations
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 96000
+=======
+    salary: 96000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 44
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 83000
+=======
+    salary: 83000
+>>>>>>> upstream/feature_9
+  - name: Emma Hernandez
+    age: 44
+    department: Marketing
+    skills:
+      - Social Media Strategy
+      - Content Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 80000
+=======
+    salary: 80000
+>>>>>>> upstream/feature_9
+  - name: Noah Garcia
+    age: 57
+    department: Finance
+    skills:
+      - Financial Planning
+      - Investment Management
+      - Financial Analysis
+<<<<<<< HEAD
+    allowance_giles: 105000
+=======
+    salary: 105000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 45
+    department: Human Resources
+    skills:
+      - Organizational Development
+      - Leadership Training
+      - Employee Engagement
+<<<<<<< HEAD
+    allowance_giles: 90000
+=======
+    salary: 90000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 45
+    department: Sales
+    skills:
+      - Sales Management
+      - Strategic Planning
+      - Marketing Strategy
+<<<<<<< HEAD
+    allowance_giles: 97000
+=======
+    salary: 97000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 45
+    department: Engineering
+    skills:
+      - Full Stack Development
+      - Software Architecture
+      - DevOps
+<<<<<<< HEAD
+    allowance_giles: 84000
+=======
+    salary: 84000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 46
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - SEO Optimization
+<<<<<<< HEAD
+    allowance_giles: 81000
+=======
+    salary: 81000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 46
+    department: Finance
+    skills:
+      - Financial Control
+      - Financial Reporting
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 106000
+=======
+    salary: 106000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 46
+    department: Human Resources
+    skills:
+      - Talent Management
+      - HR Strategy
+      - Performance Appraisal
+<<<<<<< HEAD
+    allowance_giles: 91000
+=======
+    salary: 91000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 47
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 98000
+=======
+    salary: 98000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 47
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 85000
+=======
+    salary: 85000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 47
+    department: Marketing
+    skills:
+      - Digital Marketing
+      - Social Media Advertising
+      - Content Strategy
+<<<<<<< HEAD
+    allowance_giles: 82000
+=======
+    salary: 82000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 48
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 107000
+=======
+    salary: 107000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 48
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 92000
+=======
+    salary: 92000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 49
+    department: Sales
+    skills:
+      - Sales Management
+      - Account Management
+      - Strategic Planning
+<<<<<<< HEAD
+    allowance_giles: 99000
+=======
+    salary: 99000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 49
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 86000
+=======
+    salary: 86000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 50
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 83000
+=======
+    salary: 83000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 50
+    department: Finance
+    skills:
+      - Financial Control
+      - Financial Reporting
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 108000
+=======
+    salary: 108000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 50
+    department: Human Resources
+    skills:
+      - Talent Management
+      - HR Strategy
+      - Performance Appraisal
+<<<<<<< HEAD
+    allowance_giles: 93000
+=======
+    salary: 93000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 51
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 100000
+=======
+    salary: 100000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 51
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 87000
+=======
+    salary: 87000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 52
+    department: Marketing
+    skills:
+      - Digital Marketing
+      - Social Media Advertising
+      - Content Strategy
+<<<<<<< HEAD
+    allowance_giles: 84000
+=======
+    salary: 84000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 52
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 109000
+=======
+    salary: 109000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 53
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 94000
+=======
+    salary: 94000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 53
+    department: Sales
+    skills:
+      - Sales Management
+      - Account Management
+      - Strategic Planning
+<<<<<<< HEAD
+    allowance_giles: 101000
+=======
+    salary: 101000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 54
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 88000
+=======
+    salary: 88000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 54
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 85000
+=======
+    salary: 85000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 55
+    department: Finance
+    skills:
+      - Financial Control
+      - Financial Reporting
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 110000
+=======
+    salary: 110000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 55
+    department: Human Resources
+    skills:
+      - Talent Management
+      - HR Strategy
+      - Performance Appraisal
+<<<<<<< HEAD
+    allowance_giles: 95000
+=======
+    salary: 95000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 56
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 102000
+=======
+    salary: 102000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 57
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 89000
+=======
+    salary: 89000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 58
+    department: Marketing
+    skills:
+      - Digital Marketing
+      - Social Media Advertising
+      - Content Strategy
+<<<<<<< HEAD
+    allowance_giles: 86000
+=======
+    salary: 86000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 59
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 111000
+=======
+    salary: 111000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 60
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 96000
+=======
+    salary: 96000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 61
+    department: Sales
+    skills:
+      - Sales Management
+      - Account Management
+      - Strategic Planning
+<<<<<<< HEAD
+    allowance_giles: 103000
+=======
+    salary: 103000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 62
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 90000
+=======
+    salary: 90000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 63
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 87000
+=======
+    salary: 87000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 64
+    department: Finance
+    skills:
+      - Financial Control
+      - Financial Reporting
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 112000
+=======
+    salary: 112000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 65
+    department: Human Resources
+    skills:
+      - Talent Management
+      - HR Strategy
+      - Performance Appraisal
+<<<<<<< HEAD
+    allowance_giles: 97000
+=======
+    salary: 97000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 66
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 104000
+=======
+    salary: 104000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 67
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 91000
+=======
+    salary: 91000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 68
+    department: Marketing
+    skills:
+      - Digital Marketing
+      - Social Media Advertising
+      - Content Strategy
+<<<<<<< HEAD
+    allowance_giles: 88000
+=======
+    salary: 88000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 69
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 113000
+=======
+    salary: 113000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 70
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 98000
+=======
+    salary: 98000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 71
+    department: Sales
+    skills:
+      - Sales Management
+      - Account Management
+      - Strategic Planning
+<<<<<<< HEAD
+    allowance_giles: 105000
+=======
+    salary: 105000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 72
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 92000
+=======
+    salary: 92000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 73
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 89000
+=======
+    salary: 89000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 74
+    department: Finance
+    skills:
+      - Financial Control
+      - Financial Reporting
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 114000
+=======
+    salary: 114000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 75
+    department: Human Resources
+    skills:
+      - Talent Management
+      - HR Strategy
+      - Performance Appraisal
+<<<<<<< HEAD
+    allowance_giles: 99000
+=======
+    salary: 99000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 76
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 106000
+=======
+    salary: 106000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 77
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 93000
+=======
+    salary: 93000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 78
+    department: Marketing
+    skills:
+      - Digital Marketing
+      - Social Media Advertising
+      - Content Strategy
+<<<<<<< HEAD
+    allowance_giles: 90000
+=======
+    salary: 90000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 79
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 115000
+=======
+    salary: 115000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 80
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 100000
+=======
+    salary: 100000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 81
+    department: Sales
+    skills:
+      - Sales Management
+      - Account Management
+      - Strategic Planning
+<<<<<<< HEAD
+    allowance_giles: 107000
+=======
+    salary: 107000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 82
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 94000
+=======
+    salary: 94000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 83
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 91000
+=======
+    salary: 91000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 84
+    department: Finance
+    skills:
+      - Financial Control
+      - Financial Reporting
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 116000
+=======
+    salary: 116000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 85
+    department: Human Resources
+    skills:
+      - Talent Management
+      - HR Strategy
+      - Performance Appraisal
+<<<<<<< HEAD
+    allowance_giles: 101000
+=======
+    salary: 101000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 86
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 108000
+=======
+    salary: 108000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 87
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 95000
+=======
+    salary: 95000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 88
+    department: Marketing
+    skills:
+      - Digital Marketing
+      - Social Media Advertising
+      - Content Strategy
+<<<<<<< HEAD
+    allowance_giles: 92000
+=======
+    salary: 92000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 89
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 117000
+=======
+    salary: 117000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 90
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 102000
+=======
+    salary: 102000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 91
+    department: Sales
+    skills:
+      - Sales Management
+      - Account Management
+      - Strategic Planning
+<<<<<<< HEAD
+    allowance_giles: 109000
+=======
+    salary: 109000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 92
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 96000
+=======
+    salary: 96000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 93
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 93000
+=======
+    salary: 93000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 94
+    department: Finance
+    skills:
+      - Financial Control
+      - Financial Reporting
+      - Corporate Accounting
+<<<<<<< HEAD
+    allowance_giles: 118000
+=======
+    salary: 118000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 95
+    department: Human Resources
+    skills:
+      - Talent Management
+      - HR Strategy
+      - Performance Appraisal
+<<<<<<< HEAD
+    allowance_giles: 103000
+=======
+    salary: 103000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 96
+    department: Sales
+    skills:
+      - Sales Strategy
+      - Negotiation
+      - Business Development
+<<<<<<< HEAD
+    allowance_giles: 110000
+=======
+    salary: 110000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 97
+    department: Engineering
+    skills:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+<<<<<<< HEAD
+    allowance_giles: 97000
+=======
+    salary: 97000
+>>>>>>> upstream/feature_9
+  - name: Emma Garcia
+    age: 98
+    department: Marketing
+    skills:
+      - Digital Marketing
+      - Social Media Advertising
+      - Content Strategy
+<<<<<<< HEAD
+    allowance_giles: 94000
+=======
+    salary: 94000
+>>>>>>> upstream/feature_9
+  - name: Noah Hernandez
+    age: 99
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 119000
+=======
+    salary: 119000
+>>>>>>> upstream/feature_9
+  - name: Olivia Rodriguez
+    age: 100
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 104000
+=======
+    salary: 104000
+>>>>>>> upstream/feature_9
+  - name: Ethan Taylor
+    age: 101
+    department: Engineering
+    skills:
+      - Software Development
+      - Database Management
+      - Cloud Computing
+<<<<<<< HEAD
+    allowance_giles: 98000
+=======
+    salary: 98000
+>>>>>>> upstream/feature_9
+  - name: Mia Perez
+    age: 102
+    department: Marketing
+    skills:
+      - Content Creation
+      - Social Media Marketing
+      - Email Marketing
+<<<<<<< HEAD
+    allowance_giles: 95000
+=======
+    salary: 95000
+>>>>>>> upstream/feature_9
+  - name: Ava Nguyen
+    age: 103
+    department: Finance
+    skills:
+      - Financial Planning & Analysis
+      - Corporate Finance
+      - Risk Management
+<<<<<<< HEAD
+    allowance_giles: 120000
+=======
+    salary: 120000
+>>>>>>> upstream/feature_9
+  - name: Liam Brown
+    age: 104
+    department: Human Resources
+    skills:
+      - HR Compliance
+      - Employee Relations
+      - HR Analytics
+<<<<<<< HEAD
+    allowance_giles: 105000
+=======
+    salary: 105000
+>>>>>>> upstream/feature_9
+ 
